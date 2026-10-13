@@ -1,5 +1,5 @@
 # infovis
 
-https://nazagold27.github.io/infovis/
+https://nazagoldstein.github.io/infovis/
 
-https://nazagold27.github.io/infovis/indexTP.html
+https://nazagoldstein.github.io/infovis/indexTP.html
